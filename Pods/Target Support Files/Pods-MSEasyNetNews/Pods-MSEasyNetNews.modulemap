@@ -1,0 +1,6 @@
+framework module Pods_MSEasyNetNews {
+  umbrella header "Pods-MSEasyNetNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
